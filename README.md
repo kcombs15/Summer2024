@@ -19,14 +19,17 @@ To be updated on a rolling basis as meetings, tours, and events are scheduled. T
 | Intern Meeting | Tuesday | Afternoon | In-person |
 | Legacy Professional Development | Tuesday | 1100-1300 | In-person |
 | Legacy Professional Development | Thursday | 1100-1300 | In-person |
+| QuEST Discussions | Friday | 1200-1300 | Virtual |
 
 **Important Dates**
 | Date | Reason |
 :---: | :---: |
 | June 4 | Legacy Orientation & First Day |
+| June 11 | Kara's Mentoring Meeting (Tenative) |
 | June 19 | Juneteeth |
 | June 20-21 | Kara Off |
 | July 4 | Independence Day |
+| July 9 | Kara's Mentoring Meeting (Tenative) |
 | July 12 | Public Affairs Submission Deadline |
 | July 26 | Legacy Scholar Presentation |
 | August 2 | Last Day |
