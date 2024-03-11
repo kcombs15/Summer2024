@@ -41,13 +41,12 @@ Weekly report due before Tuesday intern meeting. The final deliverable is a post
 
 ### Week 1
 - Take [Cyber Awareness Challenge](https://public.cyber.mil/training/cyber-awareness-challenge/)
-- GitHub
+- GitHub (do these in order)
   - Create [GitHub Account](https://github.com/)
   - Download [GitHub Desktop](https://desktop.github.com/)
-  - Enroll in [Introduction to GitHub course](https://github.com/skills/introduction-to-github) on GitHub
-  - Enroll in [GitHub Page course](https://github.com/skills/github-pages) on GitHub
-  - Enroll in [Comunicate Using Markdown course](https://github.com/skills/communicate-using-markdown) on GitHub
-  - Clone this repo - [Instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+  - Enroll and complete GitHub's [Introduction to GitHub](https://github.com/skills/introduction-to-github), [GitHub Pages](https://github.com/skills/github-pages), and [Comunicate Using Markdown](https://github.com/skills/communicate-using-markdown) course
+  - Add one of the supported [Jekyll themes](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll) to your website, that was created i the GitHub Pages course ([click here](https://pages.github.com/themes/) to see the theme options)
+  - Make sure you have or add the following pages to your website: Home, About Me, and Experience [click here to read more about adding page](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll#adding-a-new-page-to-your-site). You can add content later.
 - Python
   - Download [Python](https://www.python.org/downloads/)
     - Check that it is properly installed by opening the command prompt and typing: `python --version`
@@ -61,11 +60,11 @@ Weekly report due before Tuesday intern meeting. The final deliverable is a post
     - Friday: Lessons 7 - 10 (Conditional Structures and Functions)
  
 ### Week 2
+- GitHub
+  - **BY MONDAY**: Enroll and complete the GitHub [Review Pull Requests](https://github.com/skills/review-pull-requests) and [Resolve Merge Requests](https://github.com/skills/resolve-merge-conflicts) courses 
+  - On **Tuesday**, Kara will walk you through how to clone this repo and create a branch
 - GitHub Website
-  - Add one of the supported [Jekyll themes](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll) to your website ([click here](https://pages.github.com/themes/) to see the theme options)
-  - Make sure you have or add the following pages to your website: Home, About Me, and Experience [click here to read more about adding page](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll#adding-a-new-page-to-your-site)
-- GitHub    
-  - Enroll and complete the GitHub [Review Pull Requests](https://github.com/skills/review-pull-requests) and [Resolve Merge Requests](https://github.com/skills/resolve-merge-conflicts) courses
+  - On your home page, add a photo and short biography about yourself.
 - Python
   - Work on [Legacy Python for Everybody](https://www.freecodecamp.org/learn/python-for-everybody/#python-for-everybody) Lessons 11 - 35. Recommended schedule breakdown below:
     - Monday: Lessons 11 - 14 (Loops and Iterations)
