@@ -56,15 +56,16 @@ Weekly report due before Tuesday intern meeting. The final deliverable is a post
     - Under Notebook select "Python 3 pykernel"
     - To close Jupyter Lab, return to the command prompt and simultaneously press `Ctrl` + `c` keys
   - Create an account on [Free Code Camp](https://www.freecodecamp.org/) and enroll in the [Legacy Python for Everybody](https://www.freecodecamp.org/learn/python-for-everybody/#python-for-everybody) class and work on Lessons 1 - 10. Recommended schedule breakdown below:
-  - Wednesday: Lessons 1 - 4 (Introduction)
-  - Thursday: Lessons 5 - 6 (Novice and Intermediate Variables and Expressions)
-  - Friday: Lessons 7 - 10 (Conditional Structures and Functions)
+    - Wednesday: Lessons 1 - 4 (Introduction)
+    - Thursday: Lessons 5 - 6 (Novice and Intermediate Variables and Expressions)
+    - Friday: Lessons 7 - 10 (Conditional Structures and Functions)
  
 ### Week 2
 - GitHub Website
   - Add one of the supported [Jekyll themes](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll) to your website ([click here](https://pages.github.com/themes/) to see the theme options)
-  - Make sure you have or add the following pages to your website: Home, About Me, Experience, and Summer 2024 Updates [click here to read more about adding page](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll#adding-a-new-page-to-your-site)
-  - Turn your "Summer 2024 Updates" page into a blog and add a blog post introducing yourself [click here to read more about creating blog posts](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll#adding-a-new-post-to-your-site)
+  - Make sure you have or add the following pages to your website: Home, About Me, and Experience [click here to read more about adding page](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll#adding-a-new-page-to-your-site)
+- GitHub    
+  - Enroll and complete the GitHub [Review Pull Requests](https://github.com/skills/review-pull-requests) and [Resolve Merge Requests](https://github.com/skills/resolve-merge-conflicts) courses
 - Python
   - Work on [Legacy Python for Everybody](https://www.freecodecamp.org/learn/python-for-everybody/#python-for-everybody) Lessons 11 - 35. Recommended schedule breakdown below:
     - Monday: Lessons 11 - 14 (Loops and Iterations)
@@ -74,6 +75,8 @@ Weekly report due before Tuesday intern meeting. The final deliverable is a post
     - Friday: Lessons 30 - 35 (Networking)
 
 ### Week 3
+- GitHub
+  - Enroll and complete the GitHub [Connect the dots](https://github.com/skills/connect-the-dots) course
 - Python
   - Finish [Legacy Python for Everybody](https://www.freecodecamp.org/learn/python-for-everybody/#python-for-everybody). Recommended schedule breakdown below:
     - Monday: Lessons 36 - 42 (Web Services)
@@ -81,3 +84,7 @@ Weekly report due before Tuesday intern meeting. The final deliverable is a post
     - Wednesday: None - Juneteenth
     - Thursday: Lessons 47 - 53 (Relational Databases)
     - Friday: Lessons 54 - 56 (Data Visualization)
+
+### Week 4
+- GitHub
+  - Enroll and complete the GitHub [Hello Github Actions](https://github.com/skills/hello-github-actions), [Test with Actions](https://github.com/skills/test-with-actions), and [Publish Packages](https://github.com/skills/publish-packages) courses
