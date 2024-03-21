@@ -72,6 +72,8 @@ Weekly report due before Tuesday intern meeting. The final deliverable is a post
     - Wednesday: Lessons 19 - 24 (Lists and Dictionaries)
     - Thursday: Lessons 25 - 29 (Tuples and Regular Expressions)
     - Friday: Lessons 30 - 35 (Networking)
+- Soft Skills
+  - Take Four Lenses Assessment (in person with Kara on Tuesday) and read about Kara's color, [Gold](https://d2saw6je89goi1.cloudfront.net/uploads/digital_asset/file/987867/Temperament_Summary-Gold.pdf)
 
 ### Week 3
 - GitHub
